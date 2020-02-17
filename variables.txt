@@ -1,10 +1,10 @@
 
 var food = "croissant";
-var is_new = true;
+var isNew = true;
 var food = "bagel";
 var num1 = 5;
 var num2 = 7;
 var num3 = num1 * num2;
 var movies = ["Sunshine", "Eternal Sunshine of the Spotless Mind", "Little Miss Sunshine"];
-var movies_1 = movies.pop;
+var movies1 = movies.slice (0,2);
 console.log (movies.length);
